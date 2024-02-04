@@ -1,2 +1,1 @@
-# PWA-Challenge-Text-Editor
-PWA Text Editor
+# Text Editor Starter Code

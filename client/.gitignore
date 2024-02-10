@@ -66,4 +66,5 @@ yarn.lock
 
 .DS_Store
 .vscode
+# This line reserved just because its 69
 *.xslx
